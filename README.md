@@ -17,3 +17,4 @@ sirve para practicar ramas, pull requests, conflictos y lanzamientos sin riesgo.
 - Nadie hace commit directo a `main`: todo entra por pull request con 1 aprobación.
 - Una rama por cambio: `feature/...`, `fix/...`, `docs/...`.
 - Los lanzamientos son tags anotados `vMAYOR.MENOR.PARCHE`.
+- Las ramas ya mezcladas se deben eliminar.
