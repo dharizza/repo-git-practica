@@ -1,6 +1,6 @@
 # Horarios de atención
 
-Escuela de Química: lunes a viernes, 8:00 a 17:00
+Escuela de Química: lunes a viernes, 8:00-12:00 y 13:00-17:00
 Escuela de Física: lunes a viernes, 8:00 a 16:00
 Biblioteca Central: lunes a sábado, 7:00 a 20:00
 Oficina de Registro: lunes a viernes, 8:00 a 15:00
